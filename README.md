@@ -1,2 +1,1 @@
-# Employee-Management-System
-Java OOP Project implementing core object-oriented principles with 5 different classes. The main execution is handled inside the EmployeeManagementSystem class, which manages the entire project structure and serves as the central controller.
+Java OOP Project implementing core object-oriented principles with 5 different classes. The main execution is handled inside the EmployeeManagementSystem class, which manages the entire project structure and serves as the central controller. This project helps manage employees in a smart and efficient way, saving time and simplifying office work.
